@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Stalinist+One&display=swap');
+
+* {
+  font-family: "Arimo", sans-serif;
+  background: skyblue;
+}
+
+h1 {
+  font-family: "Stalinist One", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
